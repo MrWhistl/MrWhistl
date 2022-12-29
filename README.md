@@ -3,4 +3,3 @@
 ### Profile
 13 years old
 Learning C#, NodeJs Programming Code
-Live in Russia
