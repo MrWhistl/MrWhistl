@@ -1,0 +1,19 @@
+﻿body
+{
+	background-position: center top;
+	background-color: #000000;
+	font-family: Verdana;
+	background-image: url(/background.jpg);
+	background-repeat: repeat-x;
+	color: #FFFFFF;
+}
+
+.brightness 
+{
+	filter: brightness(0) invert(1);
+}
+.links
+{
+	text-align: center;
+	color: White;
+}
